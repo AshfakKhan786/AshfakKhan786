@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashfak Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from India</h3>
 
 - 🔭 I’m currently working on **polaris School of Technology**
 
